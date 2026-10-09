@@ -1,1 +1,10 @@
 
+{
+  "name": "Semice CloudStream",
+  "description": "CloudStream için çok kategorili eklenti koleksiyonu",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/recloudstream/extensions/builds/plugins.json"
+  ]
+}
+
